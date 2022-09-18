@@ -1,0 +1,15 @@
+@media only screen and (min-width: 750px) {
+  .items-list {
+      margin-left: 11rem;
+  }
+}
+@media only screen and (max-width: 750px) {
+  .items-list {
+      margin-left: 3rem;
+  }
+}
+@media only screen and (max-width: 550px) {
+  .items-list {
+      margin-left: 1rem;
+  }
+}
